@@ -7,3 +7,5 @@ The market is very saturated, yet some are very complicated and rich with featur
 Technologies used: Javascript, React, Expo
 
 Features: Add note, search for notes, edit notes, delete notes
+
+<img width="396" alt="startscreen" src="https://user-images.githubusercontent.com/88428142/196592375-96d4fccf-3da5-4e53-9656-ccd8e3ad99e6.png">
